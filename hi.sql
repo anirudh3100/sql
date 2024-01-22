@@ -1,0 +1,2 @@
+SELECT ASN 
+FROM f;
